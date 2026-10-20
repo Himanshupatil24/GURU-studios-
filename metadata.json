@@ -1,0 +1,6 @@
+{
+  "name": "Gemma 4 Multimodal Studio",
+  "description": "Production-grade multimodal intelligence suite powered by Google DeepMind Gemma 4 and Gemini API, featuring visual learning solvers, sketch-to-code design, document intelligence, and rapid prototyping playground.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
